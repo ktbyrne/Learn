@@ -4,7 +4,7 @@ getwd()
 setwd()
 flowAutomateR:::.StopParallel()
 FlowGateRename(ID = "PDA")
-BatchFlowPlots(ATitle = "trynew2")
+BatchFlowPlots(ATitle = "trynew3")
 BatchFlowPlots(DataPath = "", 
                ATitle = "", YVarFactor = NULL, Statistics = TRUE, 
                PValLim = 0.05, Maintitle = "", OutputSizeX = 6, 
